@@ -72,66 +72,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MHSQQBSA
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GD1
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.REP
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for NODEMCU_DEVKIT_V1.0\NODEMCU_DEVKIT_V1.0.RUL
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
